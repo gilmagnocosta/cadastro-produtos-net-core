@@ -7,13 +7,13 @@ using CadastroProdutos.Application.ViewModel;
 
 namespace CadastroProdutos.Application.Requests
 {
-    public class FindAttractionRequest : IRequest<ProductViewModel>
+    public class FindProductRequest : IRequest<ProductViewModel>
     {
         public int Id { get; set; }
 
-        public FindAttractionRequest() { }
+        public FindProductRequest() { }
 
-        public FindAttractionRequest(int id)
+        public FindProductRequest(int id)
         {
             Id = id;
         }
