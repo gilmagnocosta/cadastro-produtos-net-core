@@ -9,7 +9,7 @@ using CadastroProdutos.Domain.Notifications;
 
 namespace SmartCheck.Application.Handlers
 {
-    public class FindAttractionHandler : IRequestHandler<FindAttractionRequest, ProductViewModel>
+    public class FindAttractionHandler : IRequestHandler<FindProductRequest, ProductViewModel>
     {
         private readonly NotificationContext _notificationContext;
         private readonly IMapper _mapper;
@@ -23,7 +23,7 @@ namespace SmartCheck.Application.Handlers
             _service = service;
         }
 
-        public async Task<ProductViewModel> Handle(FindAttractionRequest request, CancellationToken cancellationToken)
+        public async Task<ProductViewModel> Handle(FindProductRequest request, CancellationToken cancellationToken)
         {
             var entity = await _service.FindByAsync(request.Id);
             return await Task.FromResult(_mapper.Map<ProductViewModel>(entity));

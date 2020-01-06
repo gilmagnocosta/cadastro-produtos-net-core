@@ -10,7 +10,7 @@ using CadastroProdutos.Domain.Validations;
 
 namespace CadastroProdutos.Application.Handlers
 {
-    class CreateAttractionHandler: IRequestHandler<CreateAttractionRequest, int?>
+    class CreateAttractionHandler: IRequestHandler<CreateProductRequest, int?>
     {
         private readonly NotificationContext _notificationContext;
         private readonly IAttractionService _attractionService;
@@ -23,9 +23,9 @@ namespace CadastroProdutos.Application.Handlers
             _attractionService = attractionService;
         }
 
-        public async Task<int?> Handle(CreateAttractionRequest request, CancellationToken cancellationToken)
+        public async Task<int?> Handle(CreateProductRequest request, CancellationToken cancellationToken)
         {
-            Attraction entity = _mapper.Map<CreateAttractionRequest, Attraction>(request, opt =>
+            Attraction entity = _mapper.Map<CreateProductRequest, Attraction>(request, opt =>
             {
                 opt.AfterMap((request, dest) =>
                 {

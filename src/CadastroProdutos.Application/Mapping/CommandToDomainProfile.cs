@@ -10,7 +10,7 @@ namespace CadastroProdutos.Application.Mapping
         public CommandToDomainProfile()
         {
             CreateMap<CreateAttractionCategoryRequest, AttractionCategory>();
-            CreateMap<CreateAttractionRequest, Attraction>();
+            CreateMap<CreateProductRequest, Attraction>();
             CreateMap<CreateBookingRequest, Booking>();
             CreateMap<CreateUserRequest, User>();
         }
