@@ -1,0 +1,15 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/src/ViaFoz.API/Archives
+/src/.vs/CadastroProdutos
+/src/CadastroProdutos.API/obj
+/src/CadastroProdutos.Application/obj
+/src/CadastroProdutos.Domain/obj
+/src/CadastroProdutos.Infra.Data/obj
+/src/CadastroProdutos.Infra.IoC/obj
+/src/CadastroProdutos.Infra.Services/bin/Debug/netcoreapp3.1
+/src/CadastroProdutos.Infra.Services/obj
+/src/CadastroProdutos.Infra.Utils/obj
+/src/CadastroProdutos.Settings/obj
