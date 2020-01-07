@@ -10,40 +10,31 @@ using CadastroProdutos.Domain.Validations;
 
 namespace CadastroProdutos.Application.Handlers
 {
-    class CreateAttractionHandler: IRequestHandler<CreateProductRequest, int?>
+    class CreateProductHandler: IRequestHandler<CreateProductRequest, int?>
     {
         private readonly NotificationContext _notificationContext;
-        private readonly IAttractionService _attractionService;
+        private readonly IProductService _productService;
         private readonly IMapper _mapper;
 
-        public CreateAttractionHandler(IMapper mapper, NotificationContext notificationContext, IAttractionService attractionService)
+        public CreateProductHandler(IMapper mapper, NotificationContext notificationContext, IProductService productService)
         {
             _mapper = mapper;
             _notificationContext = notificationContext;
-            _attractionService = attractionService;
+            _productService = productService;
         }
 
         public async Task<int?> Handle(CreateProductRequest request, CancellationToken cancellationToken)
         {
-            Attraction entity = _mapper.Map<CreateProductRequest, Attraction>(request, opt =>
-            {
-                opt.AfterMap((request, dest) =>
-                {
-                    dest.Category = new AttractionCategory()
-                    {
-                        Id = request.CategoryId
-                    };
-                });
-            });
+            Product entity = _mapper.Map<CreateProductRequest, Product>(request);
 
-            entity.Validate(entity, new AttractionValidator());
+            entity.Validate(entity, new ProductValidator());
             if (entity.Invalid)
             {
                 _notificationContext.AddNotifications(entity.ValidationResult);
                 return null;
             }
 
-            await _attractionService.AddAsync(entity);
+            await _productService.AddAsync(entity);
 
             if (_notificationContext.HasNotifications) return null;
 

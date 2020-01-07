@@ -28,27 +28,13 @@ namespace CadastroProdutos.Infra.IoC
             services.AddScoped<IUnitOfWork, UnitOfWork>();
 
             /** Services **/
-            services.AddScoped<IArchiveService, ArchiveService>();
-            services.AddScoped<IAttractionCategoryService, AttractionCategoryService>();
-            services.AddScoped<IAttractionService, AttractionService>();
-            services.AddScoped<IBookingService, BookingService>();
             services.AddScoped<IProductService, ProductService>();
-            services.AddScoped<IRefreshTokenService, RefreshTokenService>();
 
             /** Repositorios **/
-            services.AddScoped<IArchiveRepository, ArchiveRepository>();
-            services.AddScoped<IAttractionCategoryRepository, AttractionCategoryRepository>();
-            services.AddScoped<IAttractionRepository, AttractionRepository>();
-            services.AddScoped<IBookingRepository, BookingRepository>();
-            services.AddScoped<IProductRepository, UserRepository>();
-            services.AddScoped<IRefreshTokenRepository, RefreshTokenRepository>();
-            services.AddScoped<IUserTokenRepository, ProductRepository>();
+            services.AddScoped<IProductRepository, ProductRepository>();
 
             services.AddScoped<ImageHelper>();
             
-            services.AddScoped<IJwtService, JwtService>();
-            services.AddScoped<JwtSettings>();
-
             services.AddScoped<NotificationContext>();
         }
     }

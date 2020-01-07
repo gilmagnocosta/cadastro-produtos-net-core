@@ -13,3 +13,5 @@
 /src/CadastroProdutos.Infra.Services/obj
 /src/CadastroProdutos.Infra.Utils/obj
 /src/CadastroProdutos.Settings/obj
+/src/CadastroProdutos.API/bin/Debug/netcoreapp3.1
+/src/CadastroProdutos.Settings/bin/Debug/netcoreapp3.0

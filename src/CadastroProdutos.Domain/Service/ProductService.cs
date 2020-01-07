@@ -56,6 +56,7 @@ namespace CadastroProdutos.Domain.Service
             }
 
             existingProduct.Name = product.Name;
+            existingProduct.Value = product.Value;
 
             _productRepository.Update(product);
 
