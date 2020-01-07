@@ -6,6 +6,7 @@ using System.Drawing.Imaging;
 using System.Drawing.Drawing2D;
 using Microsoft.AspNetCore.Http;
 using System.Threading.Tasks;
+using CadastroProdutos.Infra.Utils.Enums;
 
 namespace CadastroProdutos.Infra.Utils.Images
 {

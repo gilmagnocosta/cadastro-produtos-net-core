@@ -8,6 +8,6 @@ namespace CadastroProdutos.Application.ViewModel
     {
         public string Name { get; set; }
         public decimal Value { get; set; }
-        public string Image { get; set; }
+        public string ImageURL { get; set; }
     }
 }

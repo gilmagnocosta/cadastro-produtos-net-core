@@ -11,16 +11,14 @@ namespace CadastroProdutos.Application.Requests
     {
         public string Name { get; set; }
         public decimal Value { get; set; }
-        public string Image { get; set; }
         public IFormFile File { get; set; }
 
         public UpdateProductRequest() { }
 
-        public UpdateProductRequest(string name, decimal value, string image)
+        public UpdateProductRequest(string name, decimal value)
         {
             Name = name;
             Value = value;
-            Image = image;
         }
     }
 }

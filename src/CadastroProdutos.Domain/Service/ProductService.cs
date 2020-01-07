@@ -2,9 +2,7 @@
 using CadastroProdutos.Domain.Interface.Repository;
 using CadastroProdutos.Domain.Interface.Service;
 using CadastroProdutos.Domain.Notifications;
-using CadastroProdutos.Domain.Service.Base;
 using System.Collections.Generic;
-using System.Linq;
 using System.Threading.Tasks;
 
 namespace CadastroProdutos.Domain.Service
