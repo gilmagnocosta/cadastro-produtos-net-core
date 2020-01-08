@@ -1,0 +1,8 @@
+C:\Users\gilmagno.costa.ext\source\repos\cadastro-produtos-net-core\src\CadastroProdutos.Infra.Utils\bin\Debug\netcoreapp3.0\CadastroProdutos.Infra.Utils.deps.json
+C:\Users\gilmagno.costa.ext\source\repos\cadastro-produtos-net-core\src\CadastroProdutos.Infra.Utils\bin\Debug\netcoreapp3.0\CadastroProdutos.Infra.Utils.dll
+C:\Users\gilmagno.costa.ext\source\repos\cadastro-produtos-net-core\src\CadastroProdutos.Infra.Utils\bin\Debug\netcoreapp3.0\CadastroProdutos.Infra.Utils.pdb
+C:\Users\gilmagno.costa.ext\source\repos\cadastro-produtos-net-core\src\CadastroProdutos.Infra.Utils\obj\Debug\netcoreapp3.0\CadastroProdutos.Infra.Utils.csprojAssemblyReference.cache
+C:\Users\gilmagno.costa.ext\source\repos\cadastro-produtos-net-core\src\CadastroProdutos.Infra.Utils\obj\Debug\netcoreapp3.0\CadastroProdutos.Infra.Utils.AssemblyInfoInputs.cache
+C:\Users\gilmagno.costa.ext\source\repos\cadastro-produtos-net-core\src\CadastroProdutos.Infra.Utils\obj\Debug\netcoreapp3.0\CadastroProdutos.Infra.Utils.AssemblyInfo.cs
+C:\Users\gilmagno.costa.ext\source\repos\cadastro-produtos-net-core\src\CadastroProdutos.Infra.Utils\obj\Debug\netcoreapp3.0\CadastroProdutos.Infra.Utils.dll
+C:\Users\gilmagno.costa.ext\source\repos\cadastro-produtos-net-core\src\CadastroProdutos.Infra.Utils\obj\Debug\netcoreapp3.0\CadastroProdutos.Infra.Utils.pdb

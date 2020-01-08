@@ -1,0 +1,17 @@
+C:\Users\gilmagno.costa.ext\source\repos\cadastro-produtos-net-core\src\CadastroProdutos.Infra.IoC\obj\Debug\netcoreapp3.0\CadastroProdutos.Infra.IoC.csprojAssemblyReference.cache
+C:\Users\gilmagno.costa.ext\source\repos\cadastro-produtos-net-core\src\CadastroProdutos.Infra.IoC\obj\Debug\netcoreapp3.0\CadastroProdutos.Infra.IoC.AssemblyInfoInputs.cache
+C:\Users\gilmagno.costa.ext\source\repos\cadastro-produtos-net-core\src\CadastroProdutos.Infra.IoC\obj\Debug\netcoreapp3.0\CadastroProdutos.Infra.IoC.AssemblyInfo.cs
+C:\Users\gilmagno.costa.ext\source\repos\cadastro-produtos-net-core\src\CadastroProdutos.Infra.IoC\bin\Debug\netcoreapp3.0\CadastroProdutos.Infra.IoC.deps.json
+C:\Users\gilmagno.costa.ext\source\repos\cadastro-produtos-net-core\src\CadastroProdutos.Infra.IoC\bin\Debug\netcoreapp3.0\CadastroProdutos.Infra.IoC.dll
+C:\Users\gilmagno.costa.ext\source\repos\cadastro-produtos-net-core\src\CadastroProdutos.Infra.IoC\bin\Debug\netcoreapp3.0\CadastroProdutos.Infra.IoC.pdb
+C:\Users\gilmagno.costa.ext\source\repos\cadastro-produtos-net-core\src\CadastroProdutos.Infra.IoC\bin\Debug\netcoreapp3.0\CadastroProdutos.Domain.dll
+C:\Users\gilmagno.costa.ext\source\repos\cadastro-produtos-net-core\src\CadastroProdutos.Infra.IoC\bin\Debug\netcoreapp3.0\CadastroProdutos.Infra.Data.dll
+C:\Users\gilmagno.costa.ext\source\repos\cadastro-produtos-net-core\src\CadastroProdutos.Infra.IoC\bin\Debug\netcoreapp3.0\CadastroProdutos.Infra.Utils.dll
+C:\Users\gilmagno.costa.ext\source\repos\cadastro-produtos-net-core\src\CadastroProdutos.Infra.IoC\bin\Debug\netcoreapp3.0\CadastroProdutos.Settings.dll
+C:\Users\gilmagno.costa.ext\source\repos\cadastro-produtos-net-core\src\CadastroProdutos.Infra.IoC\bin\Debug\netcoreapp3.0\CadastroProdutos.Infra.Data.pdb
+C:\Users\gilmagno.costa.ext\source\repos\cadastro-produtos-net-core\src\CadastroProdutos.Infra.IoC\bin\Debug\netcoreapp3.0\CadastroProdutos.Settings.pdb
+C:\Users\gilmagno.costa.ext\source\repos\cadastro-produtos-net-core\src\CadastroProdutos.Infra.IoC\bin\Debug\netcoreapp3.0\CadastroProdutos.Domain.pdb
+C:\Users\gilmagno.costa.ext\source\repos\cadastro-produtos-net-core\src\CadastroProdutos.Infra.IoC\bin\Debug\netcoreapp3.0\CadastroProdutos.Infra.Utils.pdb
+C:\Users\gilmagno.costa.ext\source\repos\cadastro-produtos-net-core\src\CadastroProdutos.Infra.IoC\obj\Debug\netcoreapp3.0\CadastroProdutos.Infra.IoC.csproj.CopyComplete
+C:\Users\gilmagno.costa.ext\source\repos\cadastro-produtos-net-core\src\CadastroProdutos.Infra.IoC\obj\Debug\netcoreapp3.0\CadastroProdutos.Infra.IoC.dll
+C:\Users\gilmagno.costa.ext\source\repos\cadastro-produtos-net-core\src\CadastroProdutos.Infra.IoC\obj\Debug\netcoreapp3.0\CadastroProdutos.Infra.IoC.pdb

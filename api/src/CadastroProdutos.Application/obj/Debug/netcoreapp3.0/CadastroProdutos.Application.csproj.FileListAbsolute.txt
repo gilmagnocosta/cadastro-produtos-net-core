@@ -1,0 +1,15 @@
+C:\Users\gilmagno.costa.ext\source\repos\cadastro-produtos-net-core\src\CadastroProdutos.Application\obj\Debug\netcoreapp3.0\CadastroProdutos.Application.csprojAssemblyReference.cache
+C:\Users\gilmagno.costa.ext\source\repos\cadastro-produtos-net-core\src\CadastroProdutos.Application\obj\Debug\netcoreapp3.0\CadastroProdutos.Application.AssemblyInfoInputs.cache
+C:\Users\gilmagno.costa.ext\source\repos\cadastro-produtos-net-core\src\CadastroProdutos.Application\obj\Debug\netcoreapp3.0\CadastroProdutos.Application.AssemblyInfo.cs
+C:\Users\gilmagno.costa.ext\source\repos\cadastro-produtos-net-core\src\CadastroProdutos.Application\bin\Debug\netcoreapp3.0\CadastroProdutos.Application.deps.json
+C:\Users\gilmagno.costa.ext\source\repos\cadastro-produtos-net-core\src\CadastroProdutos.Application\bin\Debug\netcoreapp3.0\CadastroProdutos.Application.dll
+C:\Users\gilmagno.costa.ext\source\repos\cadastro-produtos-net-core\src\CadastroProdutos.Application\bin\Debug\netcoreapp3.0\CadastroProdutos.Application.pdb
+C:\Users\gilmagno.costa.ext\source\repos\cadastro-produtos-net-core\src\CadastroProdutos.Application\bin\Debug\netcoreapp3.0\CadastroProdutos.Domain.dll
+C:\Users\gilmagno.costa.ext\source\repos\cadastro-produtos-net-core\src\CadastroProdutos.Application\bin\Debug\netcoreapp3.0\CadastroProdutos.Infra.Utils.dll
+C:\Users\gilmagno.costa.ext\source\repos\cadastro-produtos-net-core\src\CadastroProdutos.Application\bin\Debug\netcoreapp3.0\CadastroProdutos.Settings.dll
+C:\Users\gilmagno.costa.ext\source\repos\cadastro-produtos-net-core\src\CadastroProdutos.Application\bin\Debug\netcoreapp3.0\CadastroProdutos.Domain.pdb
+C:\Users\gilmagno.costa.ext\source\repos\cadastro-produtos-net-core\src\CadastroProdutos.Application\bin\Debug\netcoreapp3.0\CadastroProdutos.Infra.Utils.pdb
+C:\Users\gilmagno.costa.ext\source\repos\cadastro-produtos-net-core\src\CadastroProdutos.Application\bin\Debug\netcoreapp3.0\CadastroProdutos.Settings.pdb
+C:\Users\gilmagno.costa.ext\source\repos\cadastro-produtos-net-core\src\CadastroProdutos.Application\obj\Debug\netcoreapp3.0\CadastroProdutos.Application.csproj.CopyComplete
+C:\Users\gilmagno.costa.ext\source\repos\cadastro-produtos-net-core\src\CadastroProdutos.Application\obj\Debug\netcoreapp3.0\CadastroProdutos.Application.dll
+C:\Users\gilmagno.costa.ext\source\repos\cadastro-produtos-net-core\src\CadastroProdutos.Application\obj\Debug\netcoreapp3.0\CadastroProdutos.Application.pdb

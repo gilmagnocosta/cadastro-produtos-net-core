@@ -1,0 +1,15 @@
+C:\Users\gilmagno.costa.ext\source\repos\cadastro-produtos-net-core\src\CadastroProdutos.Infra.Data\bin\Debug\netcoreapp3.0\CadastroProdutos.Domain.dll
+C:\Users\gilmagno.costa.ext\source\repos\cadastro-produtos-net-core\src\CadastroProdutos.Infra.Data\bin\Debug\netcoreapp3.0\CadastroProdutos.Infra.Utils.dll
+C:\Users\gilmagno.costa.ext\source\repos\cadastro-produtos-net-core\src\CadastroProdutos.Infra.Data\obj\Debug\netcoreapp3.0\CadastroProdutos.Infra.Data.csprojAssemblyReference.cache
+C:\Users\gilmagno.costa.ext\source\repos\cadastro-produtos-net-core\src\CadastroProdutos.Infra.Data\obj\Debug\netcoreapp3.0\CadastroProdutos.Infra.Data.AssemblyInfoInputs.cache
+C:\Users\gilmagno.costa.ext\source\repos\cadastro-produtos-net-core\src\CadastroProdutos.Infra.Data\obj\Debug\netcoreapp3.0\CadastroProdutos.Infra.Data.AssemblyInfo.cs
+C:\Users\gilmagno.costa.ext\source\repos\cadastro-produtos-net-core\src\CadastroProdutos.Infra.Data\bin\Debug\netcoreapp3.0\CadastroProdutos.Infra.Data.deps.json
+C:\Users\gilmagno.costa.ext\source\repos\cadastro-produtos-net-core\src\CadastroProdutos.Infra.Data\bin\Debug\netcoreapp3.0\CadastroProdutos.Infra.Data.dll
+C:\Users\gilmagno.costa.ext\source\repos\cadastro-produtos-net-core\src\CadastroProdutos.Infra.Data\bin\Debug\netcoreapp3.0\CadastroProdutos.Infra.Data.pdb
+C:\Users\gilmagno.costa.ext\source\repos\cadastro-produtos-net-core\src\CadastroProdutos.Infra.Data\bin\Debug\netcoreapp3.0\CadastroProdutos.Domain.pdb
+C:\Users\gilmagno.costa.ext\source\repos\cadastro-produtos-net-core\src\CadastroProdutos.Infra.Data\bin\Debug\netcoreapp3.0\CadastroProdutos.Infra.Utils.pdb
+C:\Users\gilmagno.costa.ext\source\repos\cadastro-produtos-net-core\src\CadastroProdutos.Infra.Data\obj\Debug\netcoreapp3.0\CadastroProdutos.Infra.Data.csproj.CopyComplete
+C:\Users\gilmagno.costa.ext\source\repos\cadastro-produtos-net-core\src\CadastroProdutos.Infra.Data\obj\Debug\netcoreapp3.0\CadastroProdutos.Infra.Data.dll
+C:\Users\gilmagno.costa.ext\source\repos\cadastro-produtos-net-core\src\CadastroProdutos.Infra.Data\obj\Debug\netcoreapp3.0\CadastroProdutos.Infra.Data.pdb
+C:\Users\gilmagno.costa.ext\source\repos\cadastro-produtos-net-core\src\CadastroProdutos.Infra.Data\bin\Debug\netcoreapp3.0\CadastroProdutos.Infra.Data.runtimeconfig.json
+C:\Users\gilmagno.costa.ext\source\repos\cadastro-produtos-net-core\src\CadastroProdutos.Infra.Data\bin\Debug\netcoreapp3.0\CadastroProdutos.Infra.Data.runtimeconfig.dev.json
