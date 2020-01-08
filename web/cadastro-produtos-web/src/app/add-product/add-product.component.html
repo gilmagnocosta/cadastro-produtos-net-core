@@ -1,0 +1,29 @@
+<div class="col-md-6 product-container">
+  <h2 class="text-center">Adicionar Produto</h2>
+  <form [formGroup]="addForm" (ngSubmit)="onSubmit()">
+    <div class="form-group">
+      <label for="name">Nome:</label>
+      <input
+        type="text"
+        formControlName="product"
+        placeholder="Produto"
+        name="product"
+        class="form-control"
+        id="product"
+      />
+    </div>
+
+    <div class="form-group">
+      <label for="value">Valor:</label>
+      <input
+        formControlName="value"
+        placeholder="Valor"
+        name="value"
+        class="form-control"
+        id="value"
+      />
+    </div>
+
+    <button class="btn btn-success">Adicionar</button>
+  </form>
+</div>
