@@ -192,11 +192,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gilmagno.costa.ext\\source\\repos\\cadastro-produtos-net-core\\src\\CadastroProdutos.Settings\\CadastroProdutos.Settings.csproj",
+      "projectUniqueName": "C:\\Users\\gilmagno.costa.ext\\source\\repos\\cadastro-produtos-net-core\\api\\src\\CadastroProdutos.Settings\\CadastroProdutos.Settings.csproj",
       "projectName": "CadastroProdutos.Settings",
-      "projectPath": "C:\\Users\\gilmagno.costa.ext\\source\\repos\\cadastro-produtos-net-core\\src\\CadastroProdutos.Settings\\CadastroProdutos.Settings.csproj",
+      "projectPath": "C:\\Users\\gilmagno.costa.ext\\source\\repos\\cadastro-produtos-net-core\\api\\src\\CadastroProdutos.Settings\\CadastroProdutos.Settings.csproj",
       "packagesPath": "C:\\Users\\gilmagno.costa.ext\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gilmagno.costa.ext\\source\\repos\\cadastro-produtos-net-core\\src\\CadastroProdutos.Settings\\obj\\",
+      "outputPath": "C:\\Users\\gilmagno.costa.ext\\source\\repos\\cadastro-produtos-net-core\\api\\src\\CadastroProdutos.Settings\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",

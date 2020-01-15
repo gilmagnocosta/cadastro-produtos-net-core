@@ -7,12 +7,12 @@ import { catchError } from 'rxjs/operators';
 
 @Injectable()
 export class ApiService {
-  baseUrl: string = 'http://localhost:8080/products/';
+  baseUrl: string = 'http://localhost:3333/api/products/';
 
   constructor(private http: HttpClient) { }
 
   login(loginPayload) : Observable<ApiResponse> {
-    return this.http.post<ApiResponse>('http://localhost:8080/'+ 'token/generate-token', loginPayload)
+    return this.http.post<ApiResponse>('http://localhost:3333/api/authenticate', loginPayload)
     .pipe(
       catchError(val => of(val)));
       };

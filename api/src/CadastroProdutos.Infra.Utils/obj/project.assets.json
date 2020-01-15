@@ -4989,11 +4989,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gilmagno.costa.ext\\source\\repos\\cadastro-produtos-net-core\\src\\CadastroProdutos.Infra.Utils\\CadastroProdutos.Infra.Utils.csproj",
+      "projectUniqueName": "C:\\Users\\gilmagno.costa.ext\\source\\repos\\cadastro-produtos-net-core\\api\\src\\CadastroProdutos.Infra.Utils\\CadastroProdutos.Infra.Utils.csproj",
       "projectName": "CadastroProdutos.Infra.Utils",
-      "projectPath": "C:\\Users\\gilmagno.costa.ext\\source\\repos\\cadastro-produtos-net-core\\src\\CadastroProdutos.Infra.Utils\\CadastroProdutos.Infra.Utils.csproj",
+      "projectPath": "C:\\Users\\gilmagno.costa.ext\\source\\repos\\cadastro-produtos-net-core\\api\\src\\CadastroProdutos.Infra.Utils\\CadastroProdutos.Infra.Utils.csproj",
       "packagesPath": "C:\\Users\\gilmagno.costa.ext\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gilmagno.costa.ext\\source\\repos\\cadastro-produtos-net-core\\src\\CadastroProdutos.Infra.Utils\\obj\\",
+      "outputPath": "C:\\Users\\gilmagno.costa.ext\\source\\repos\\cadastro-produtos-net-core\\api\\src\\CadastroProdutos.Infra.Utils\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",

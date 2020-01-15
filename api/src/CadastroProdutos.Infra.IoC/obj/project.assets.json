@@ -8179,11 +8179,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gilmagno.costa.ext\\source\\repos\\cadastro-produtos-net-core\\src\\CadastroProdutos.Infra.IoC\\CadastroProdutos.Infra.IoC.csproj",
+      "projectUniqueName": "C:\\Users\\gilmagno.costa.ext\\source\\repos\\cadastro-produtos-net-core\\api\\src\\CadastroProdutos.Infra.IoC\\CadastroProdutos.Infra.IoC.csproj",
       "projectName": "CadastroProdutos.Infra.IoC",
-      "projectPath": "C:\\Users\\gilmagno.costa.ext\\source\\repos\\cadastro-produtos-net-core\\src\\CadastroProdutos.Infra.IoC\\CadastroProdutos.Infra.IoC.csproj",
+      "projectPath": "C:\\Users\\gilmagno.costa.ext\\source\\repos\\cadastro-produtos-net-core\\api\\src\\CadastroProdutos.Infra.IoC\\CadastroProdutos.Infra.IoC.csproj",
       "packagesPath": "C:\\Users\\gilmagno.costa.ext\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gilmagno.costa.ext\\source\\repos\\cadastro-produtos-net-core\\src\\CadastroProdutos.Infra.IoC\\obj\\",
+      "outputPath": "C:\\Users\\gilmagno.costa.ext\\source\\repos\\cadastro-produtos-net-core\\api\\src\\CadastroProdutos.Infra.IoC\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -8205,11 +8205,11 @@
       "frameworks": {
         "netcoreapp3.0": {
           "projectReferences": {
-            "C:\\Users\\gilmagno.costa.ext\\source\\repos\\cadastro-produtos-net-core\\src\\CadastroProdutos.Infra.Data\\CadastroProdutos.Infra.Data.csproj": {
-              "projectPath": "C:\\Users\\gilmagno.costa.ext\\source\\repos\\cadastro-produtos-net-core\\src\\CadastroProdutos.Infra.Data\\CadastroProdutos.Infra.Data.csproj"
+            "C:\\Users\\gilmagno.costa.ext\\source\\repos\\cadastro-produtos-net-core\\api\\src\\CadastroProdutos.Infra.Data\\CadastroProdutos.Infra.Data.csproj": {
+              "projectPath": "C:\\Users\\gilmagno.costa.ext\\source\\repos\\cadastro-produtos-net-core\\api\\src\\CadastroProdutos.Infra.Data\\CadastroProdutos.Infra.Data.csproj"
             },
-            "C:\\Users\\gilmagno.costa.ext\\source\\repos\\cadastro-produtos-net-core\\src\\CadastroProdutos.Settings\\CadastroProdutos.Settings.csproj": {
-              "projectPath": "C:\\Users\\gilmagno.costa.ext\\source\\repos\\cadastro-produtos-net-core\\src\\CadastroProdutos.Settings\\CadastroProdutos.Settings.csproj"
+            "C:\\Users\\gilmagno.costa.ext\\source\\repos\\cadastro-produtos-net-core\\api\\src\\CadastroProdutos.Settings\\CadastroProdutos.Settings.csproj": {
+              "projectPath": "C:\\Users\\gilmagno.costa.ext\\source\\repos\\cadastro-produtos-net-core\\api\\src\\CadastroProdutos.Settings\\CadastroProdutos.Settings.csproj"
             }
           }
         }
